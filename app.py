@@ -284,9 +284,4 @@ else:
         </div>
     """, unsafe_allow_html=True)
     
-    st.markdown('<div class="custom-header"><i class="fa-solid fa-microchip"></i> System Specifications</div>', unsafe_allow_html=True)
-    spec_col1, spec_col2, spec_col3 = st.columns(3)
     
-    spec_col1.markdown('<div class="neon-card"><div class="card-label"><i class="fa-solid fa-brain"></i> Core Engine</div><div class="card-value" style="font-size:1.5rem;">ResNet-50</div></div>', unsafe_allow_html=True)
-    spec_col2.markdown('<div class="neon-card"><div class="card-label"><i class="fa-solid fa-layer-group"></i> Target Classes</div><div class="card-value" style="font-size:1.5rem;">9 Groups</div></div>', unsafe_allow_html=True)
-    spec_col3.markdown('<div class="neon-card"><div class="card-label"><i class="fa-solid fa-code"></i> Framework</div><div class="card-value" style="font-size:1.5rem;">PyTorch</div></div>', unsafe_allow_html=True)
