@@ -1,6 +1,6 @@
 # 👁️ FairVision AI: Convolutional Neural Network-Based Age Group Classification System
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge.svg)](https://cnn-based-age-group-classification-system-kalanamethsara.streamlit.app/)
+[![Streamlit App](https://img.shields.io/badge/Render-Streamlit%20Cloud-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://cnn-based-age-group-classification-system-kalanamethsara.streamlit.app/)
 [![PyTorch](https://img.shields.io/badge/Framework-PyTorch-ee4c2c?logo=pytorch)](https://pytorch.org/)
 
 FairVision AI is a production-ready, Deep Learning-powered computer vision framework tailored for age demographics estimation. This project addresses the critical challenge of biased facial classification by implementing an optimized Convolutional Neural Network architecture built on PyTorch, complete with a modern, glassmorphic Streamlit analytics dashboard.
