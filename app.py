@@ -217,7 +217,7 @@ with st.sidebar:
     
     st.markdown("<br><hr style='border-color: #1F2937;'><br>", unsafe_allow_html=True)
     st.markdown("<h4 style='color: #4FACFE;'><i class='fa-solid fa-circle-info'></i> About</h4>", unsafe_allow_html=True)
-    st.caption("FairVision runs on a fine-tuned ResNet-50 deep learning model architecture.")
+    st.caption("An intuitive, two-column Streamlit dashboard that pairs an interactive face-upload interface with transparent, real-time age prediction confidence bars.")
 
 st.markdown('<div class="main-title"><i class="fa-solid fa-eye-low-vision"></i> FairVision AI</div>', unsafe_allow_html=True)
 st.markdown('<div class="subtitle">Advanced Age Group Classification Framework</div>', unsafe_allow_html=True)
